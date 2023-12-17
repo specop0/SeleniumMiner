@@ -1,0 +1,11 @@
+services:
+  seleniumminer:
+    build:
+      context: .
+    restart: always
+    networks:
+      - seleniumminer
+
+networks:
+  seleniumminer:
+    name: seleniumminer

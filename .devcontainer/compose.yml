@@ -1,0 +1,13 @@
+services:
+  seleniumminer:
+    image: maven
+    volumes:
+      - ../..:/workspaces:cached
+    command: sleep infinity
+    networks:
+      - seleniumminer
+
+networks:
+  seleniumminer:
+    name: seleniumminer
+    external: true
