@@ -1,6 +1,6 @@
-package anime.seleniumminer.plugin;
+package seleniumminer.plugin;
 
-import anime.seleniumminer.plugin.webdriver.IWebDriver;
+import seleniumminer.plugin.webdriver.IWebDriver;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.json.JSONObject;

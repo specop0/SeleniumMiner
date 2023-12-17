@@ -1,6 +1,6 @@
-package anime.seleniumminer.plugin;
+package seleniumminer.plugin;
 
-import anime.seleniumminer.plugin.webdriver.IWebDriver;
+import seleniumminer.plugin.webdriver.IWebDriver;
 import org.json.JSONObject;
 
 public interface IPlugin {

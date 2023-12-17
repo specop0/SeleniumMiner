@@ -1,4 +1,4 @@
-package anime.seleniumminer.plugin;
+package seleniumminer.plugin;
 
 public class Plugins {
 

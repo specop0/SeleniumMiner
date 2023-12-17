@@ -1,4 +1,4 @@
-package anime.seleniumminer.plugin.webdriver;
+package seleniumminer.plugin.webdriver;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;

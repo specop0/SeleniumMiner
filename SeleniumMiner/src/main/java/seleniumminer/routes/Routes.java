@@ -1,6 +1,6 @@
-package anime.seleniumminer.routes;
+package seleniumminer.routes;
 
-import anime.seleniumminer.main.IMineController;
+import seleniumminer.main.IMineController;
 
 public class Routes {
 

@@ -1,6 +1,6 @@
-package anime.seleniumminer.plugin;
+package seleniumminer.plugin;
 
-import anime.seleniumminer.plugin.webdriver.IWebDriver;
+import seleniumminer.plugin.webdriver.IWebDriver;
 import org.json.JSONObject;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;

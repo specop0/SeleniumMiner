@@ -1,4 +1,4 @@
-package anime.seleniumminer.plugin.webdriver;
+package seleniumminer.plugin.webdriver;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

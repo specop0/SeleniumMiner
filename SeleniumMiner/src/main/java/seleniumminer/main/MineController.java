@@ -1,7 +1,7 @@
-package anime.seleniumminer.main;
+package seleniumminer.main;
 
-import anime.seleniumminer.plugin.IPlugin;
-import anime.seleniumminer.plugin.webdriver.IWebDriver;
+import seleniumminer.plugin.IPlugin;
+import seleniumminer.plugin.webdriver.IWebDriver;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;

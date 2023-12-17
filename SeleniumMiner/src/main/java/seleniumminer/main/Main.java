@@ -1,10 +1,10 @@
-package anime.seleniumminer.main;
+package seleniumminer.main;
 
-import anime.seleniumminer.plugin.IPlugin;
-import anime.seleniumminer.plugin.Plugins;
-import anime.seleniumminer.plugin.webdriver.FirefoxDriverEx;
-import anime.seleniumminer.plugin.webdriver.IWebDriver;
-import anime.seleniumminer.routes.Routes;
+import seleniumminer.plugin.IPlugin;
+import seleniumminer.plugin.Plugins;
+import seleniumminer.plugin.webdriver.FirefoxDriverEx;
+import seleniumminer.plugin.webdriver.IWebDriver;
+import seleniumminer.routes.Routes;
 import java.io.IOException;
 
 public class Main {

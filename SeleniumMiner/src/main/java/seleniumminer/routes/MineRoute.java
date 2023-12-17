@@ -1,7 +1,7 @@
-package anime.seleniumminer.routes;
+package seleniumminer.routes;
 
-import anime.seleniumminer.main.IMineController;
-import anime.seleniumminer.plugin.IPlugin;
+import seleniumminer.main.IMineController;
+import seleniumminer.plugin.IPlugin;
 import java.net.HttpURLConnection;
 import org.json.JSONObject;
 import spark.Request;
