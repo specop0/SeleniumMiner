@@ -3,9 +3,17 @@ services:
     build:
       context: .
     restart: always
+    # user: "1000:1000"
     networks:
       - seleniumminer
+    read_only: true
+    volumes:
+      - tmp:/tmp
+    environment:
+      - HOME=/tmp
 
 networks:
   seleniumminer:
     name: seleniumminer
+volumes:
+  tmp:

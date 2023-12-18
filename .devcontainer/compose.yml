@@ -1,6 +1,7 @@
 services:
   seleniumminer:
-    image: maven
+    build:
+      context: .
     volumes:
       - ../..:/workspaces:cached
     command: sleep infinity
