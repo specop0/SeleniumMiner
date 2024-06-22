@@ -6,9 +6,9 @@ services:
       - ../..:/workspaces:cached
     command: sleep infinity
     networks:
-      - seleniumminer
+      - main
 
 networks:
-  seleniumminer:
-    name: seleniumminer
+  main:
+    name: main
     external: true
